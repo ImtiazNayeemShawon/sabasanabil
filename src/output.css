@@ -822,3 +822,16 @@ body {
 .hover\:opacity-80:hover {
   opacity: 0.8;
 }
+
+.testimonial-bg {
+  background-image: url('/images/Rectangle\ 2898.png');
+  background-size: cover;
+  background-position: center;
+}
+.quote-icon {
+  background-image: url('/images/left-quotes-sign\ 1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 24px;
+  height: 24px;
+}
